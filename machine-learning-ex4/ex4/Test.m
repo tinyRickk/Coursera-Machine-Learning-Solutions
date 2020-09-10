@@ -1,0 +1,1 @@
+Test=vectorImage(Test.jpg);
